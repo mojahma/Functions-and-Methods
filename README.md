@@ -4,8 +4,8 @@
 
 ### Task ###
 - Create a calculator program with separate methods for:
-            ~ addition
-            ~ subtraction
-            ~ multiplication
-            ~ division.
+~ addition 
+~ subtraction
+~ multiplication
+~ division.
 
