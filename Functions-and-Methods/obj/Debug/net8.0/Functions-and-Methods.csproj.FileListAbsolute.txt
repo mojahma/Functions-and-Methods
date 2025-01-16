@@ -1,0 +1,15 @@
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\bin\Debug\net8.0\Functions-and-Methods.exe
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\bin\Debug\net8.0\Functions-and-Methods.deps.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\bin\Debug\net8.0\Functions-and-Methods.runtimeconfig.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\bin\Debug\net8.0\Functions-and-Methods.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\bin\Debug\net8.0\Functions-and-Methods.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\Functions-and-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\Functions-and-Methods.AssemblyInfoInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\Functions-and-Methods.AssemblyInfo.cs
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\Functions-and-Methods.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\Functions-and-Methods.sourcelink.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\Functions-and-Methods.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\refint\Functions-and-Methods.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\Functions-and-Methods.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\Functions-and-Methods.genruntimeconfig.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\Functions and Methods\Functions-and-Methods\obj\Debug\net8.0\ref\Functions-and-Methods.dll
